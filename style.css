@@ -1,0 +1,21 @@
+body {
+  background-color: #8F6CAD;
+  color: lavender;
+}
+
+#navbar {
+  position: fixed;
+  height: 100%;
+  width: 50%;
+  min-width: 50%;
+  color: black;
+  top: 0;
+  left: 0;
+  overflow-wrap: anywhere;
+}
+
+@media (max-width: 300px;) {
+  text-align: center;
+}
+
+
